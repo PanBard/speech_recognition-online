@@ -1,5 +1,5 @@
 # speech_recognition---online
-simple project which use google API
+simple project with google API
 
 Instalation windows:
 1 "name-project"\venv\Scripts\activate.bat
